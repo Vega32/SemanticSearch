@@ -1,0 +1,10 @@
+A laptop battery loses capacity over time as it goes through charge cycles.
+Reducing screen brightness can help a laptop battery last longer.
+Closing unnecessary background applications can reduce power consumption.
+Solid state drives are generally faster than traditional hard disk drives.
+Python is a popular programming language used for automation and data science.
+Machine learning models learn patterns from data to make predictions.
+Neural networks are machine learning models inspired by interconnected neurons.
+Regular exercise can improve cardiovascular health and overall fitness.
+A balanced diet provides the nutrients needed for normal body functions.
+Montreal is a major Canadian city known for its culture and architecture.
