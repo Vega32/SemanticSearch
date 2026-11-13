@@ -2,3 +2,8 @@ sentence-transformers
 numpy
 scikit-learn
 matplotlib
+faiss-cpu
+rank-bm25
+PySide6
+pypdf
+pyinstaller
